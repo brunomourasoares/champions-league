@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Real Madrid",
+        "country": "Spain",
+        "city": "Madrid",
+        "stadium": "Santiago Bernabeu",
+        "capacity": 81044
+    },
+    {
+        "id": 2,
+        "name": "Barcelona",
+        "country": "Spain",
+        "city": "Barcelona",
+        "stadium": "Camp Nou",
+        "capacity": 99354
+    },
+    {
+        "id": 3,
+        "name": "Manchester United",
+        "country": "England",
+        "city": "Manchester",
+        "stadium": "Old Trafford",
+        "capacity": 74879
+    },
+    {
+        "id": 4,
+        "name": "Liverpool",
+        "country": "England",
+        "city": "Liverpool",
+        "stadium": "Anfield",
+        "capacity": 53394
+    }
+]
